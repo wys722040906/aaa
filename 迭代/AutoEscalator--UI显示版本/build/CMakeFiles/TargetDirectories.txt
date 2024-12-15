@@ -1,0 +1,7 @@
+/home/wys/Desktop/AutoEscalator/build/CMakeFiles/edit_cache.dir
+/home/wys/Desktop/AutoEscalator/build/CMakeFiles/rebuild_cache.dir
+/home/wys/Desktop/AutoEscalator/build/app/CMakeFiles/elevator_app.dir
+/home/wys/Desktop/AutoEscalator/build/app/CMakeFiles/edit_cache.dir
+/home/wys/Desktop/AutoEscalator/build/app/CMakeFiles/rebuild_cache.dir
+/home/wys/Desktop/AutoEscalator/build/app/CMakeFiles/elevator_app_autogen_timestamp_deps.dir
+/home/wys/Desktop/AutoEscalator/build/app/CMakeFiles/elevator_app_autogen.dir

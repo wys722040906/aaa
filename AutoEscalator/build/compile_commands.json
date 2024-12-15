@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/wys/Desktop/AutoEscalator/build",
+  "command": "/usr/bin/g++ -I/home/wys/Desktop/AutoEscalator/src -g -std=gnu++17 -o CMakeFiles/elevator_simulation.dir/src/main.cpp.o -c /home/wys/Desktop/AutoEscalator/src/main.cpp",
+  "file": "/home/wys/Desktop/AutoEscalator/src/main.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/AutoEscalator/build",
+  "command": "/usr/bin/g++ -I/home/wys/Desktop/AutoEscalator/src -g -std=gnu++17 -o CMakeFiles/elevator_simulation.dir/src/elevator.cpp.o -c /home/wys/Desktop/AutoEscalator/src/elevator.cpp",
+  "file": "/home/wys/Desktop/AutoEscalator/src/elevator.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/AutoEscalator/build",
+  "command": "/usr/bin/g++ -I/home/wys/Desktop/AutoEscalator/src -g -std=gnu++17 -o CMakeFiles/elevator_simulation.dir/src/passenger.cpp.o -c /home/wys/Desktop/AutoEscalator/src/passenger.cpp",
+  "file": "/home/wys/Desktop/AutoEscalator/src/passenger.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/AutoEscalator/build",
+  "command": "/usr/bin/g++ -I/home/wys/Desktop/AutoEscalator/src -g -std=gnu++17 -o CMakeFiles/elevator_simulation.dir/src/building.cpp.o -c /home/wys/Desktop/AutoEscalator/src/building.cpp",
+  "file": "/home/wys/Desktop/AutoEscalator/src/building.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/AutoEscalator/build",
+  "command": "/usr/bin/g++ -I/home/wys/Desktop/AutoEscalator/src -g -std=gnu++17 -o CMakeFiles/elevator_simulation.dir/src/simulator.cpp.o -c /home/wys/Desktop/AutoEscalator/src/simulator.cpp",
+  "file": "/home/wys/Desktop/AutoEscalator/src/simulator.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/AutoEscalator/build",
+  "command": "/usr/bin/g++ -I/home/wys/Desktop/AutoEscalator/src -g -std=gnu++17 -o CMakeFiles/elevator_simulation.dir/src/statistics.cpp.o -c /home/wys/Desktop/AutoEscalator/src/statistics.cpp",
+  "file": "/home/wys/Desktop/AutoEscalator/src/statistics.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/AutoEscalator/build",
+  "command": "/usr/bin/g++ -I/home/wys/Desktop/AutoEscalator/src -g -std=gnu++17 -o CMakeFiles/elevator_simulation.dir/src/utils.cpp.o -c /home/wys/Desktop/AutoEscalator/src/utils.cpp",
+  "file": "/home/wys/Desktop/AutoEscalator/src/utils.cpp"
+}
+]

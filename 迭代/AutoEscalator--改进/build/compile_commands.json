@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/wys/Desktop/迭代/AutoEscalator--改进/build",
+  "command": "/usr/bin/g++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/迭代/AutoEscalator--改进/build/app/elevator_system_autogen/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtCharts -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_system.dir/elevator_system_autogen/mocs_compilation.cpp.o -c /home/wys/Desktop/迭代/AutoEscalator--改进/build/app/elevator_system_autogen/mocs_compilation.cpp",
+  "file": "/home/wys/Desktop/迭代/AutoEscalator--改进/build/app/elevator_system_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/迭代/AutoEscalator--改进/build",
+  "command": "/usr/bin/g++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/迭代/AutoEscalator--改进/build/app/elevator_system_autogen/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtCharts -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_system.dir/src/main.cpp.o -c /home/wys/Desktop/迭代/AutoEscalator--改进/app/src/main.cpp",
+  "file": "/home/wys/Desktop/迭代/AutoEscalator--改进/app/src/main.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/迭代/AutoEscalator--改进/build",
+  "command": "/usr/bin/g++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/迭代/AutoEscalator--改进/build/app/elevator_system_autogen/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtCharts -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_system.dir/src/login/loginwindow.cpp.o -c /home/wys/Desktop/迭代/AutoEscalator--改进/app/src/login/loginwindow.cpp",
+  "file": "/home/wys/Desktop/迭代/AutoEscalator--改进/app/src/login/loginwindow.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/迭代/AutoEscalator--改进/build",
+  "command": "/usr/bin/g++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/迭代/AutoEscalator--改进/build/app/elevator_system_autogen/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtCharts -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_system.dir/src/mainwindow/mainwindow.cpp.o -c /home/wys/Desktop/迭代/AutoEscalator--改进/app/src/mainwindow/mainwindow.cpp",
+  "file": "/home/wys/Desktop/迭代/AutoEscalator--改进/app/src/mainwindow/mainwindow.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/迭代/AutoEscalator--改进/build",
+  "command": "/usr/bin/g++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/迭代/AutoEscalator--改进/build/app/elevator_system_autogen/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtCharts -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_system.dir/src/elevator/elevatorwidget.cpp.o -c /home/wys/Desktop/迭代/AutoEscalator--改进/app/src/elevator/elevatorwidget.cpp",
+  "file": "/home/wys/Desktop/迭代/AutoEscalator--改进/app/src/elevator/elevatorwidget.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/迭代/AutoEscalator--改进/build",
+  "command": "/usr/bin/g++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/迭代/AutoEscalator--改进/build/app/elevator_system_autogen/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtCharts -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_system.dir/src/floor/floorwidget.cpp.o -c /home/wys/Desktop/迭代/AutoEscalator--改进/app/src/floor/floorwidget.cpp",
+  "file": "/home/wys/Desktop/迭代/AutoEscalator--改进/app/src/floor/floorwidget.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/迭代/AutoEscalator--改进/build",
+  "command": "/usr/bin/g++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/迭代/AutoEscalator--改进/build/app/elevator_system_autogen/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtCharts -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_system.dir/src/controller/elevatorcontroller.cpp.o -c /home/wys/Desktop/迭代/AutoEscalator--改进/app/src/controller/elevatorcontroller.cpp",
+  "file": "/home/wys/Desktop/迭代/AutoEscalator--改进/app/src/controller/elevatorcontroller.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/迭代/AutoEscalator--改进/build",
+  "command": "/usr/bin/g++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/迭代/AutoEscalator--改进/build/app/elevator_system_autogen/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtCharts -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_system.dir/src/settings/settingsdialog.cpp.o -c /home/wys/Desktop/迭代/AutoEscalator--改进/app/src/settings/settingsdialog.cpp",
+  "file": "/home/wys/Desktop/迭代/AutoEscalator--改进/app/src/settings/settingsdialog.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/迭代/AutoEscalator--改进/build",
+  "command": "/usr/bin/g++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/迭代/AutoEscalator--改进/build/app/elevator_system_autogen/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtCharts -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_system.dir/src/statistics/statisticsdialog.cpp.o -c /home/wys/Desktop/迭代/AutoEscalator--改进/app/src/statistics/statisticsdialog.cpp",
+  "file": "/home/wys/Desktop/迭代/AutoEscalator--改进/app/src/statistics/statisticsdialog.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/迭代/AutoEscalator--改进/build",
+  "command": "/usr/bin/g++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/迭代/AutoEscalator--改进/build/app/elevator_system_autogen/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/include -I/home/wys/Desktop/迭代/AutoEscalator--改进/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtCharts -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_system.dir/elevator_system_autogen/3YJK5W5UP7/qrc_resources.cpp.o -c /home/wys/Desktop/迭代/AutoEscalator--改进/build/app/elevator_system_autogen/3YJK5W5UP7/qrc_resources.cpp",
+  "file": "/home/wys/Desktop/迭代/AutoEscalator--改进/build/app/elevator_system_autogen/3YJK5W5UP7/qrc_resources.cpp"
+}
+]

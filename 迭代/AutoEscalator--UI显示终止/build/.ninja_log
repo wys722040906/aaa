@@ -1,0 +1,21 @@
+# ninja log v5
+0	53	1733912191288395855	build.ninja	4fef7638aa857722
+132	176	1733821141334889025	app/CMakeFiles/app.dir/app_autogen/7BV4YJK25R/qrc_resources.cpp.o	d46001cb3fe60392
+282	1956	1733823618893089440	app/CMakeFiles/app.dir/src/ui/ElevatorWidget.cpp.o	14376fa84642618b
+1	281	1733823617213164424	/home/wys/Desktop/AutoEscalator/build/app/app_autogen/timestamp	267a7e14252f094f
+1	281	1733823617213164424	app/app_autogen/timestamp	267a7e14252f094f
+1	281	1733823617213164424	app/app_autogen/mocs_compilation.cpp	267a7e14252f094f
+282	2364	1733823619301071231	app/CMakeFiles/app.dir/src/ui/StatusMonitorDialog.cpp.o	3dbc60cf9eb50e3f
+183	1075	1733823470743740074	app/CMakeFiles/app.dir/src/utils/Config.cpp.o	e54edb10e570c09e
+124	130	1733821092802433938	app/app_autogen/7BV4YJK25R/qrc_resources.cpp	e923e81b036cb141
+124	130	1733821092802433938	/home/wys/Desktop/AutoEscalator/build/app/app_autogen/7BV4YJK25R/qrc_resources.cpp	e923e81b036cb141
+240	2024	1733823540997576236	app/CMakeFiles/app.dir/src/ui/ElevatorConfigDialog.cpp.o	7510d5a582f4bdb6
+282	1626	1733823618563104168	app/CMakeFiles/app.dir/src/core/PassengerManager.cpp.o	2eed2fe5a3760a0c
+1	281	1733823617213164424	/home/wys/Desktop/AutoEscalator/build/app/app_autogen/mocs_compilation.cpp	267a7e14252f094f
+281	1839	1733823618775094707	app/CMakeFiles/app.dir/src/core/ElevatorDispatcher.cpp.o	560efbd20736c37c
+2	380	1733890090828415199	app/app	c121e521ce420683
+281	1488	1733823618425110327	app/CMakeFiles/app.dir/src/main.cpp.o	cf0f1efc3ac80f10
+282	2210	1733823619146078148	app/CMakeFiles/app.dir/src/ui/MainWindow.cpp.o	8b210958effb7f42
+281	1270	1733823618207120057	app/CMakeFiles/app.dir/src/core/Elevator.cpp.o	812e2fcabd12e8ab
+131	1410	1733821142567583106	app/CMakeFiles/app.dir/src/ui/LoginWindow.cpp.o	929211430c52127c
+281	2454	1733823619391067214	app/CMakeFiles/app.dir/app_autogen/mocs_compilation.cpp.o	9421f327670b4d35

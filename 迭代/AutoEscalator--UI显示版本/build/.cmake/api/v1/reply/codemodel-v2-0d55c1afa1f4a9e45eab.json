@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "app",
+					"jsonFile" : "directory-app-Debug-94c5f210ca04b1028ae5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "app",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ElevatorSystem"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "app",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "elevator_app::@5f5a17c01335469806cb",
+					"jsonFile" : "target-elevator_app-Debug-a90c5f2cd747f82a3859.json",
+					"name" : "elevator_app",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "elevator_app_autogen::@5f5a17c01335469806cb",
+					"jsonFile" : "target-elevator_app_autogen-Debug-f31ad69dd4370f1eceb7.json",
+					"name" : "elevator_app_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "elevator_app_autogen_timestamp_deps::@5f5a17c01335469806cb",
+					"jsonFile" : "target-elevator_app_autogen_timestamp_deps-Debug-c1f321bd5e935bf2d636.json",
+					"name" : "elevator_app_autogen_timestamp_deps",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wys/Desktop/AutoEscalator/build",
+		"source" : "/home/wys/Desktop/AutoEscalator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

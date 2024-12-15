@@ -1,0 +1,18 @@
+# ninja log v5
+0	473	1734171106541197450	app/elevator_system_autogen/timestamp	14abfea4982a231e
+0	473	1734171106541197450	app/elevator_system_autogen/mocs_compilation.cpp	14abfea4982a231e
+0	473	1734171106541197450	/home/wys/Desktop/迭代/AutoEscalator--Bug修复/build/app/elevator_system_autogen/timestamp	14abfea4982a231e
+0	473	1734171106541197450	/home/wys/Desktop/迭代/AutoEscalator--Bug修复/build/app/elevator_system_autogen/mocs_compilation.cpp	14abfea4982a231e
+474	483	1734171106561196824	app/elevator_system_autogen/3YJK5W5UP7/qrc_resources.cpp	5c6249fe6ab87731
+474	483	1734171106561196824	/home/wys/Desktop/迭代/AutoEscalator--Bug修复/build/app/elevator_system_autogen/3YJK5W5UP7/qrc_resources.cpp	5c6249fe6ab87731
+486	509	1734171106587196011	app/CMakeFiles/elevator_system.dir/elevator_system_autogen/3YJK5W5UP7/qrc_resources.cpp.o	1457bee52a04b31a
+483	1762	1734171107840156103	app/CMakeFiles/elevator_system.dir/src/main.cpp.o	986a86e4f594dc4b
+485	1786	1734171107864155333	app/CMakeFiles/elevator_system.dir/src/settings/settingsdialog.cpp.o	cd2dfec8fe86261a
+484	2017	1734171108094147871	app/CMakeFiles/elevator_system.dir/src/elevator/elevatorwidget.cpp.o	e09bcb1f3b9f5114
+484	2681	1734171108758126016	app/CMakeFiles/elevator_system.dir/src/floor/floorwidget.cpp.o	fb2f2d07c5184934
+484	3296	1734171109373105488	app/CMakeFiles/elevator_system.dir/src/controller/elevatorcontroller.cpp.o	2d73aa4adf0fb305
+484	3713	1734171109790091442	app/CMakeFiles/elevator_system.dir/src/login/loginwindow.cpp.o	90a46d62d6de10e1
+485	3823	1734171109900087737	app/CMakeFiles/elevator_system.dir/src/statistics/statisticsdialog.cpp.o	fee1320c92c9958c
+484	4212	1734171110288074454	app/CMakeFiles/elevator_system.dir/src/mainwindow/mainwindow.cpp.o	f34977e3d43a31b8
+483	4753	1734171110830055793	app/CMakeFiles/elevator_system.dir/elevator_system_autogen/mocs_compilation.cpp.o	cd252f08da598cff
+4753	5112	1734171111188043333	app/elevator_system	6e1f4d4354ff713c

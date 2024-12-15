@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/home/wys/Desktop/AutoEscalator/build/app/app_autogen",
+	"CMAKE_BINARY_DIR" : "/home/wys/Desktop/AutoEscalator/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/wys/Desktop/AutoEscalator/build/app",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/wys/Desktop/AutoEscalator/app",
+	"CMAKE_SOURCE_DIR" : "/home/wys/Desktop/AutoEscalator",
+	"INCLUDE_DIR" : "/home/wys/Desktop/AutoEscalator/build/app/app_autogen/include",
+	"INPUTS" : [ "/home/wys/Desktop/AutoEscalator/resources/styles/main.qss" ],
+	"LOCK_FILE" : "/home/wys/Desktop/AutoEscalator/build/app/CMakeFiles/app_autogen.dir/AutoRcc_resources_7BV4YJK25R_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "7BV4YJK25R",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/wys/Desktop/AutoEscalator/build/app/CMakeFiles/app_autogen.dir/AutoRcc_resources_7BV4YJK25R_Used.txt",
+	"SOURCE" : "/home/wys/Desktop/AutoEscalator/resources/resources.qrc",
+	"VERBOSITY" : 0
+}

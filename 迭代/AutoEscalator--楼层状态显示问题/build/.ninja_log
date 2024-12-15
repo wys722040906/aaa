@@ -1,0 +1,19 @@
+# ninja log v5
+287	1543	1734004128227758993	app/CMakeFiles/elevator_system.dir/src/floor/floorwidget.cpp.o	ed456e4fb0a5888f
+24	2362	1734004168548441542	app/CMakeFiles/elevator_system.dir/src/statistics/statisticsdialog.cpp.o	5c0d3709a8cd057
+251	2768	1734014169237355632	app/CMakeFiles/elevator_system.dir/elevator_system_autogen/mocs_compilation.cpp.o	aac537ec70fc0462
+23	907	1734001900780876451	app/CMakeFiles/elevator_system.dir/src/elevator/elevatorwidget.cpp.o	8ea0e2fc4e73e90e
+228	235	1733991868244860638	app/elevator_system_autogen/3YJK5W5UP7/qrc_resources.cpp	d66fff6e7d40edda
+27	2494	1734014501910677911	app/CMakeFiles/elevator_system.dir/src/mainwindow/mainwindow.cpp.o	30c2213e15074189
+21	843	1733992759231242979	app/CMakeFiles/elevator_system.dir/src/main.cpp.o	c6c2ded0fc4959df
+2	27	1734014499444606304	app/elevator_system_autogen/mocs_compilation.cpp	b754af9d809d90f5
+2	27	1734014499444606304	app/elevator_system_autogen/timestamp	b754af9d809d90f5
+31	1266	1734014496823529849	app/CMakeFiles/elevator_system.dir/src/controller/elevatorcontroller.cpp.o	9788537f15c45b3
+2	27	1734014499444606304	/home/wys/Desktop/AutoEscalator/build/app/elevator_system_autogen/timestamp	b754af9d809d90f5
+2	27	1734014499444606304	/home/wys/Desktop/AutoEscalator/build/app/elevator_system_autogen/mocs_compilation.cpp	b754af9d809d90f5
+289	338	1733992646575463219	app/CMakeFiles/elevator_system.dir/elevator_system_autogen/3YJK5W5UP7/qrc_resources.cpp.o	56d69d5c4d20fb55
+228	235	1733991868244860638	/home/wys/Desktop/AutoEscalator/build/app/elevator_system_autogen/3YJK5W5UP7/qrc_resources.cpp	d66fff6e7d40edda
+281	1843	1734011450041062377	app/CMakeFiles/elevator_system.dir/src/settings/settingsdialog.cpp.o	f739799b69eab378
+251	2964	1734014169433366171	app/CMakeFiles/elevator_system.dir/src/login/loginwindow.cpp.o	1abb64f202f5745e
+2494	2847	1734014502261688074	app/elevator_system	d68c74423cc6381b
+4	416	1734058242225869769	app/elevator_system	8f2a0fcc5dd48f4

@@ -1,0 +1,7 @@
+/home/wys/Desktop/迭代/AutoEscalator--Bug修复/build/CMakeFiles/edit_cache.dir
+/home/wys/Desktop/迭代/AutoEscalator--Bug修复/build/CMakeFiles/rebuild_cache.dir
+/home/wys/Desktop/迭代/AutoEscalator--Bug修复/build/app/CMakeFiles/elevator_system.dir
+/home/wys/Desktop/迭代/AutoEscalator--Bug修复/build/app/CMakeFiles/edit_cache.dir
+/home/wys/Desktop/迭代/AutoEscalator--Bug修复/build/app/CMakeFiles/rebuild_cache.dir
+/home/wys/Desktop/迭代/AutoEscalator--Bug修复/build/app/CMakeFiles/elevator_system_autogen_timestamp_deps.dir
+/home/wys/Desktop/迭代/AutoEscalator--Bug修复/build/app/CMakeFiles/elevator_system_autogen.dir

@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/wys/Desktop/AutoEscalator/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/AutoEscalator/build/app/elevator_app_autogen/include -I/home/wys/Desktop/AutoEscalator/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_app.dir/elevator_app_autogen/mocs_compilation.cpp.o -c /home/wys/Desktop/AutoEscalator/build/app/elevator_app_autogen/mocs_compilation.cpp",
+  "file": "/home/wys/Desktop/AutoEscalator/build/app/elevator_app_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/AutoEscalator/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/AutoEscalator/build/app/elevator_app_autogen/include -I/home/wys/Desktop/AutoEscalator/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_app.dir/src/main.cpp.o -c /home/wys/Desktop/AutoEscalator/app/src/main.cpp",
+  "file": "/home/wys/Desktop/AutoEscalator/app/src/main.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/AutoEscalator/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/AutoEscalator/build/app/elevator_app_autogen/include -I/home/wys/Desktop/AutoEscalator/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_app.dir/src/ui/MainWindow.cpp.o -c /home/wys/Desktop/AutoEscalator/app/src/ui/MainWindow.cpp",
+  "file": "/home/wys/Desktop/AutoEscalator/app/src/ui/MainWindow.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/AutoEscalator/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/AutoEscalator/build/app/elevator_app_autogen/include -I/home/wys/Desktop/AutoEscalator/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_app.dir/src/ui/ElevatorWidget.cpp.o -c /home/wys/Desktop/AutoEscalator/app/src/ui/ElevatorWidget.cpp",
+  "file": "/home/wys/Desktop/AutoEscalator/app/src/ui/ElevatorWidget.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/AutoEscalator/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/AutoEscalator/build/app/elevator_app_autogen/include -I/home/wys/Desktop/AutoEscalator/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_app.dir/src/ui/LoginDialog.cpp.o -c /home/wys/Desktop/AutoEscalator/app/src/ui/LoginDialog.cpp",
+  "file": "/home/wys/Desktop/AutoEscalator/app/src/ui/LoginDialog.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/AutoEscalator/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/AutoEscalator/build/app/elevator_app_autogen/include -I/home/wys/Desktop/AutoEscalator/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_app.dir/src/core/Elevator.cpp.o -c /home/wys/Desktop/AutoEscalator/app/src/core/Elevator.cpp",
+  "file": "/home/wys/Desktop/AutoEscalator/app/src/core/Elevator.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/AutoEscalator/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/AutoEscalator/build/app/elevator_app_autogen/include -I/home/wys/Desktop/AutoEscalator/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_app.dir/src/core/ElevatorSystem.cpp.o -c /home/wys/Desktop/AutoEscalator/app/src/core/ElevatorSystem.cpp",
+  "file": "/home/wys/Desktop/AutoEscalator/app/src/core/ElevatorSystem.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/AutoEscalator/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/AutoEscalator/build/app/elevator_app_autogen/include -I/home/wys/Desktop/AutoEscalator/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_app.dir/src/core/EmergencyHandler.cpp.o -c /home/wys/Desktop/AutoEscalator/app/src/core/EmergencyHandler.cpp",
+  "file": "/home/wys/Desktop/AutoEscalator/app/src/core/EmergencyHandler.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/AutoEscalator/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/wys/Desktop/AutoEscalator/build/app/elevator_app_autogen/include -I/home/wys/Desktop/AutoEscalator/app/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o app/CMakeFiles/elevator_app.dir/src/core/PassengerManager.cpp.o -c /home/wys/Desktop/AutoEscalator/app/src/core/PassengerManager.cpp",
+  "file": "/home/wys/Desktop/AutoEscalator/app/src/core/PassengerManager.cpp"
+}
+]

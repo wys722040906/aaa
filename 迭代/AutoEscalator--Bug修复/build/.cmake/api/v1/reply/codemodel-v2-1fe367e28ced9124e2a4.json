@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "app",
+					"jsonFile" : "directory-app-Debug-94c5f210ca04b1028ae5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "app",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AutoEscalator"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "elevator_system",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "elevator_system::@5f5a17c01335469806cb",
+					"jsonFile" : "target-elevator_system-Debug-849452e5ad57a74f60e8.json",
+					"name" : "elevator_system",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "elevator_system_autogen::@5f5a17c01335469806cb",
+					"jsonFile" : "target-elevator_system_autogen-Debug-e0085347cd9f0b3f453a.json",
+					"name" : "elevator_system_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "elevator_system_autogen_timestamp_deps::@5f5a17c01335469806cb",
+					"jsonFile" : "target-elevator_system_autogen_timestamp_deps-Debug-a8a8e0159012a42113df.json",
+					"name" : "elevator_system_autogen_timestamp_deps",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wys/Desktop/\u8fed\u4ee3/AutoEscalator--Bug\u4fee\u590d/build",
+		"source" : "/home/wys/Desktop/\u8fed\u4ee3/AutoEscalator--Bug\u4fee\u590d"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

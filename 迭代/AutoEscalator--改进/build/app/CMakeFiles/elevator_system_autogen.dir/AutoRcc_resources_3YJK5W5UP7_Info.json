@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "/home/wys/Desktop/\u8fed\u4ee3/AutoEscalator--\u6539\u8fdb/build/app/elevator_system_autogen",
+	"CMAKE_BINARY_DIR" : "/home/wys/Desktop/\u8fed\u4ee3/AutoEscalator--\u6539\u8fdb/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/wys/Desktop/\u8fed\u4ee3/AutoEscalator--\u6539\u8fdb/build/app",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/wys/Desktop/\u8fed\u4ee3/AutoEscalator--\u6539\u8fdb/app",
+	"CMAKE_SOURCE_DIR" : "/home/wys/Desktop/\u8fed\u4ee3/AutoEscalator--\u6539\u8fdb",
+	"INCLUDE_DIR" : "/home/wys/Desktop/\u8fed\u4ee3/AutoEscalator--\u6539\u8fdb/build/app/elevator_system_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/wys/Desktop/\u8fed\u4ee3/AutoEscalator--\u6539\u8fdb/app/resources/icons/down_arrow.png",
+		"/home/wys/Desktop/\u8fed\u4ee3/AutoEscalator--\u6539\u8fdb/app/resources/icons/circle.png",
+		"/home/wys/Desktop/\u8fed\u4ee3/AutoEscalator--\u6539\u8fdb/app/resources/icons/up_arrow.png"
+	],
+	"LOCK_FILE" : "/home/wys/Desktop/\u8fed\u4ee3/AutoEscalator--\u6539\u8fdb/build/app/CMakeFiles/elevator_system_autogen.dir/AutoRcc_resources_3YJK5W5UP7_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "3YJK5W5UP7",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/wys/Desktop/\u8fed\u4ee3/AutoEscalator--\u6539\u8fdb/build/app/CMakeFiles/elevator_system_autogen.dir/AutoRcc_resources_3YJK5W5UP7_Used.txt",
+	"SOURCE" : "/home/wys/Desktop/\u8fed\u4ee3/AutoEscalator--\u6539\u8fdb/app/resources/resources.qrc",
+	"VERBOSITY" : 0
+}

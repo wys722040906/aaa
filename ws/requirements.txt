@@ -1,0 +1,23 @@
+# 在项目根目录创建 requirements.txt 文件
+fastapi==0.68.0
+uvicorn==0.15.0
+numpy==1.21.2
+websockets==10.0
+##pip install -r requirements.txt
+##python backend/main.py
+
+
+后端核心：
+backend/models/map.py (
+地图系统)
+backend/models/agv.py (AGV模型)
+backend/models/task.py (任务系统)
+backend/algorithms/astar.py (A算法)
+backend/algorithms/scheduler.py (调度系统)
+backend/main.py (FastAPI主程序)
+2. 前端实现：
+frontend/css/style.css (样式)
+frontend/js/websocket.js (WebSocket通信)
+frontend/js/map.js (地图渲染)
+frontend/js/main.js (主逻辑)
+frontend/index.html (主页面)

@@ -1,0 +1,50 @@
+/* 主窗口样式 */
+QMainWindow {
+    background-color: #f0f0f0;
+}
+
+/* 登录窗口样式 */
+LoginWindow QLineEdit {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+LoginWindow QPushButton {
+    padding: 8px 16px;
+    background-color: #2196F3;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+
+LoginWindow QPushButton:hover {
+    background-color: #1976D2;
+}
+
+/* 电梯部件样式 */
+ElevatorWidget {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+}
+
+ElevatorWidget QLabel {
+    padding: 5px;
+    font-size: 14px;
+}
+
+/* 工具栏样式 */
+QToolBar {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+}
+
+QToolButton {
+    padding: 5px;
+    border: none;
+}
+
+QToolButton:hover {
+    background-color: #e0e0e0;
+} 

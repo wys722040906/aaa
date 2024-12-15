@@ -1,0 +1,11 @@
+// 创建一个简单的电梯图标
+QImage image(32, 32, QImage::Format_ARGB32);
+image.fill(Qt::transparent);
+
+QPainter painter(&image);
+painter.setPen(QPen(Qt::black, 2));
+painter.drawRect(2, 2, 28, 28);
+painter.drawLine(16, 8, 16, 24);
+painter.drawLine(8, 16, 24, 16);
+
+image.save("elevator.png");

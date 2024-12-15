@@ -1,0 +1,24 @@
+# ninja log v5
+898	1253	1734001534458576182	app/elevator_system	1c229a2b0907476a
+228	235	1733991868244860638	app/elevator_system_autogen/3YJK5W5UP7/qrc_resources.cpp	d66fff6e7d40edda
+155	1919	1734001314459926191	app/CMakeFiles/elevator_system.dir/src/mainwindow/mainwindow.cpp.o	30c2213e15074189
+21	843	1733992759231242979	app/CMakeFiles/elevator_system.dir/src/main.cpp.o	c6c2ded0fc4959df
+23	1063	1733998426414387735	app/CMakeFiles/elevator_system.dir/src/floor/floorwidget.cpp.o	ed456e4fb0a5888f
+1	21	1734001533230599909	app/elevator_system_autogen/mocs_compilation.cpp	b754af9d809d90f5
+1	21	1734001533230599909	app/elevator_system_autogen/timestamp	b754af9d809d90f5
+1	21	1734001533230599909	/home/wys/Desktop/AutoEscalator/build/app/elevator_system_autogen/mocs_compilation.cpp	b754af9d809d90f5
+26	949	1733995607203073644	app/CMakeFiles/elevator_system.dir/src/settings/settingsdialog.cpp.o	f739799b69eab378
+228	235	1733991868244860638	/home/wys/Desktop/AutoEscalator/build/app/elevator_system_autogen/3YJK5W5UP7/qrc_resources.cpp	d66fff6e7d40edda
+289	338	1733992646575463219	app/CMakeFiles/elevator_system.dir/elevator_system_autogen/3YJK5W5UP7/qrc_resources.cpp.o	56d69d5c4d20fb55
+155	1501	1734001314040934694	app/CMakeFiles/elevator_system.dir/src/controller/elevatorcontroller.cpp.o	9788537f15c45b3
+1	21	1734001533230599909	/home/wys/Desktop/AutoEscalator/build/app/elevator_system_autogen/timestamp	b754af9d809d90f5
+21	898	1734001534106582982	app/CMakeFiles/elevator_system.dir/src/elevator/elevatorwidget.cpp.o	8ea0e2fc4e73e90e
+289	1425	1733992647661460914	app/CMakeFiles/elevator_system.dir/src/statistics/statisticsdialog.cpp.o	5c0d3709a8cd057
+155	2202	1734001314743920427	app/CMakeFiles/elevator_system.dir/elevator_system_autogen/mocs_compilation.cpp.o	aac537ec70fc0462
+155	1449	1734001313989935729	app/CMakeFiles/elevator_system.dir/src/login/loginwindow.cpp.o	1abb64f202f5745e
+1	22	1734001692567561690	app/elevator_system_autogen/timestamp	b754af9d809d90f5
+1	22	1734001692567561690	app/elevator_system_autogen/mocs_compilation.cpp	b754af9d809d90f5
+1	22	1734001692567561690	/home/wys/Desktop/AutoEscalator/build/app/elevator_system_autogen/timestamp	b754af9d809d90f5
+1	22	1734001692567561690	/home/wys/Desktop/AutoEscalator/build/app/elevator_system_autogen/mocs_compilation.cpp	b754af9d809d90f5
+23	887	1734001693430545434	app/CMakeFiles/elevator_system.dir/src/elevator/elevatorwidget.cpp.o	8ea0e2fc4e73e90e
+887	1231	1734001693772538993	app/elevator_system	1c229a2b0907476a

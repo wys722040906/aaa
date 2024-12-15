@@ -1,0 +1,18 @@
+# ninja log v5
+0	439	1734086918265724521	app/elevator_system_autogen/timestamp	1c37d66e4ac0d4b6
+0	439	1734086918265724521	app/elevator_system_autogen/mocs_compilation.cpp	1c37d66e4ac0d4b6
+0	439	1734086918265724521	/home/wys/Desktop/迭代/AutoEscalator--改进/build/app/elevator_system_autogen/timestamp	1c37d66e4ac0d4b6
+0	439	1734086918265724521	/home/wys/Desktop/迭代/AutoEscalator--改进/build/app/elevator_system_autogen/mocs_compilation.cpp	1c37d66e4ac0d4b6
+439	447	1734086918278725337	app/elevator_system_autogen/3YJK5W5UP7/qrc_resources.cpp	5d2c8cd30b31a95a
+439	447	1734086918278725337	/home/wys/Desktop/迭代/AutoEscalator--改进/build/app/elevator_system_autogen/3YJK5W5UP7/qrc_resources.cpp	5d2c8cd30b31a95a
+448	482	1734086918313727532	app/CMakeFiles/elevator_system.dir/elevator_system_autogen/3YJK5W5UP7/qrc_resources.cpp.o	6de531cb9c8ae1d7
+448	1493	1734086919324790825	app/CMakeFiles/elevator_system.dir/src/settings/settingsdialog.cpp.o	7c652108d8c3af0f
+447	1867	1734086919698814152	app/CMakeFiles/elevator_system.dir/src/elevator/elevatorwidget.cpp.o	45e3dfeb0c4e86ac
+448	2035	1734086919866824630	app/CMakeFiles/elevator_system.dir/src/floor/floorwidget.cpp.o	320a062d49643091
+447	2214	1734086920045835779	app/CMakeFiles/elevator_system.dir/src/main.cpp.o	21906126933c1a9b
+448	2978	1734086920808883108	app/CMakeFiles/elevator_system.dir/src/controller/elevatorcontroller.cpp.o	ecf5b36d0b0e3bdc
+447	3524	1734086921354916857	app/CMakeFiles/elevator_system.dir/src/mainwindow/mainwindow.cpp.o	992fac070983ead8
+448	3578	1734086921408920189	app/CMakeFiles/elevator_system.dir/src/statistics/statisticsdialog.cpp.o	e73e2ea1a252d902
+447	3911	1734086921742940794	app/CMakeFiles/elevator_system.dir/src/login/loginwindow.cpp.o	5cf4dee44dce2617
+447	4377	1734086922206969350	app/CMakeFiles/elevator_system.dir/elevator_system_autogen/mocs_compilation.cpp.o	2b1f691f6e3ae6a4
+4377	4725	1734086922554990702	app/elevator_system	6e1f4d4354ff713c
